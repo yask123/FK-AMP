@@ -5,7 +5,7 @@
   "content_scripts": [
     {
       "matches": [
-        "https://www.flipkart.com/*"
+        "https://www.flipkart.com/*/p/*"
       ],
       "js": ["content.js"]
     }
